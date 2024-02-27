@@ -1,4 +1,4 @@
-![logo](https://github.com/AdhilKappil/AdhilKappil/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
+![logo](https://github.com/AdhilKappil/AdhilKappil/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Adhil Ali</h1>
 <h3 align="center">I'm a passionate Java Script , specializing in Full stack development. I love coding and enjoy building Scalable Websites.</h3>
