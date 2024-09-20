@@ -1,11 +1,9 @@
 ![logo](https://github.com/AdhilKappil/AdhilKappil/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Adhil Ali</h1>
-<h3 align="center">I'm a passionate Java Script , specializing in Full stack development. I love coding and enjoy building Scalable Websites.</h3>
+<h3 align="center">I'm a passionate developer , specializing in Full stack development. I love coding and enjoy building Scalable Websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhilkappil&label=Profile%20views&color=0e75b6&style=flat" alt="adhilkappil" /> </p>
-
-- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdhilKappil](https://github.com/AdhilKappil)
 
